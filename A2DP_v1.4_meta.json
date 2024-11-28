@@ -1,0 +1,2132 @@
+{
+    "languages": null,
+    "filetype": "pdf",
+    "toc": [
+        {
+            "title": "1 Introduction",
+            "level": 0,
+            "is_closed": true,
+            "n_kids": 5,
+            "page_index": 9,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                734.0,
+                0.0
+            ]
+        },
+        {
+            "title": "1.1 Scope",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 9,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                702.0,
+                0.0
+            ]
+        },
+        {
+            "title": "1.2 Profile dependency",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 9,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                510.0,
+                0.0
+            ]
+        },
+        {
+            "title": "1.3 Symbols and conventions",
+            "level": 1,
+            "is_closed": true,
+            "n_kids": 1,
+            "page_index": 10,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                367.0,
+                0.0
+            ]
+        },
+        {
+            "title": "1.3.1 Requirement status symbols",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 10,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                349.0,
+                0.0
+            ]
+        },
+        {
+            "title": "1.4 Bluetooth A2DP Profile change history",
+            "level": 1,
+            "is_closed": true,
+            "n_kids": 1,
+            "page_index": 10,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                156.0,
+                0.0
+            ]
+        },
+        {
+            "title": "1.4.1 Changes from 1.3 to 1.4",
+            "level": 2,
+            "is_closed": true,
+            "n_kids": 1,
+            "page_index": 10,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                134.0,
+                0.0
+            ]
+        },
+        {
+            "title": "1.4.1.1 New features",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 10,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                111.0,
+                0.0
+            ]
+        },
+        {
+            "title": "1.5 Language",
+            "level": 1,
+            "is_closed": true,
+            "n_kids": 3,
+            "page_index": 11,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                690.0,
+                0.0
+            ]
+        },
+        {
+            "title": "1.5.1 Language conventions",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 11,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                666.0,
+                0.0
+            ]
+        },
+        {
+            "title": "1.5.2 Reserved for Future Use",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 11,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                230.0,
+                0.0
+            ]
+        },
+        {
+            "title": "1.5.3 Prohibited",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 12,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                669.0,
+                0.0
+            ]
+        },
+        {
+            "title": "2 Profile overview",
+            "level": 0,
+            "is_closed": true,
+            "n_kids": 5,
+            "page_index": 13,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                734.0,
+                0.0
+            ]
+        },
+        {
+            "title": "2.1 Profile stacks",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 13,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                702.0,
+                0.0
+            ]
+        },
+        {
+            "title": "2.2 Configurations and roles",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 13,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                278.0,
+                0.0
+            ]
+        },
+        {
+            "title": "2.3 User requirements and scenarios",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 14,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                407.0,
+                0.0
+            ]
+        },
+        {
+            "title": "2.4 Profile fundamentals",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 14,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                210.0,
+                0.0
+            ]
+        },
+        {
+            "title": "2.5 Conformance",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 14,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                145.0,
+                0.0
+            ]
+        },
+        {
+            "title": "3 Application layer",
+            "level": 0,
+            "is_closed": true,
+            "n_kids": 2,
+            "page_index": 15,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                734.0,
+                0.0
+            ]
+        },
+        {
+            "title": "3.1 Audio Streaming setup",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 15,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                484.0,
+                0.0
+            ]
+        },
+        {
+            "title": "3.2 Audio Streaming",
+            "level": 1,
+            "is_closed": true,
+            "n_kids": 2,
+            "page_index": 15,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                224.0,
+                0.0
+            ]
+        },
+        {
+            "title": "3.2.1 Send Audio Stream",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 16,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                734.0,
+                0.0
+            ]
+        },
+        {
+            "title": "3.2.2 Receive Audio Stream",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 16,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                597.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4 Audio codec interoperability requirements",
+            "level": 0,
+            "is_closed": true,
+            "n_kids": 8,
+            "page_index": 17,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                734.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.1 Overview",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 17,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                702.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.2 Support of codec interoperability requirements",
+            "level": 1,
+            "is_closed": true,
+            "n_kids": 5,
+            "page_index": 17,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                531.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.2.1 Mandatory codec interoperability requirements",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 17,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                249.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.2.2 Optional codec interoperability requirements",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 17,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                141.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.2.3 Vendor Specific A2DP codec interoperability requirements",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 18,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                734.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.2.4 Unsupported codec interoperability requirements",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 18,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                643.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.2.5 Audio Codec Type values",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 18,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                583.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.3 SBC codec interoperability requirements",
+            "level": 1,
+            "is_closed": true,
+            "n_kids": 4,
+            "page_index": 18,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                494.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.3.1 Reference",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 18,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                471.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.3.2 Codec Specific Information Elements",
+            "level": 2,
+            "is_closed": true,
+            "n_kids": 6,
+            "page_index": 18,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                419.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.3.2.1 Sampling Frequency",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 18,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                182.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.3.2.2 Channel Mode",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 19,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                630.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.3.2.3 Block Length",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 19,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                436.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.3.2.4 Subbands",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 19,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                270.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.3.2.5 Allocation Method",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 19,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                146.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.3.2.6 Minimum / Maximum Bitpool Value",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 20,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                646.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.3.3 Media packet header requirements",
+            "level": 2,
+            "is_closed": true,
+            "n_kids": 4,
+            "page_index": 20,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                160.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.3.3.1 Timestamp (TS)",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 20,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                140.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.3.3.2 Payload type (PT)",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 21,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                705.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.3.3.3 Marker (M) bit",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 21,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                669.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.3.3.4 Extension (X) bit",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 21,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                633.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.3.4 Media payload format",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 21,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                596.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.4 MPEG-1,2 Audio codec interoperability requirements",
+            "level": 1,
+            "is_closed": true,
+            "n_kids": 4,
+            "page_index": 22,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                623.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.4.1 Reference",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 22,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                599.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.4.2 Codec Specific Information Elements",
+            "level": 2,
+            "is_closed": true,
+            "n_kids": 7,
+            "page_index": 22,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                558.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.4.2.1 Layer",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 22,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                332.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.4.2.2 CRC Protection",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 22,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                154.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.4.2.3 Channel Mode",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 23,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                734.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.4.2.4 Media payload format (MPF)",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 23,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                541.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.4.2.5 Sampling Frequency",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 23,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                486.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.4.2.6 VBR",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 23,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                241.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.4.2.7 Bit Rate Index",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 23,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                116.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.4.3 Media packet header requirements",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 24,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                317.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.4.4 Media payload format",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 24,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                268.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.5 MPEG-2, 4 AAC codec interoperability requirements",
+            "level": 1,
+            "is_closed": true,
+            "n_kids": 4,
+            "page_index": 24,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                208.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.5.1 Reference",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 24,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                186.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.5.2 Codec Specific Information Elements",
+            "level": 2,
+            "is_closed": true,
+            "n_kids": 6,
+            "page_index": 24,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                133.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.5.2.1 Object Type",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 25,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                566.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.5.2.2 MPEG-D DRC",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 25,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                139.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.5.2.3 Sampling Frequency",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 26,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                637.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.5.2.4 Channels",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 26,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                290.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.5.2.5 Bit rate",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 27,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                734.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.5.2.6 VBR",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 27,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                607.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.5.3 Media packet header requirements",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 27,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                505.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.5.4 Media payload format",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 27,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                460.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.6 ATRAC family codec interoperability requirements",
+            "level": 1,
+            "is_closed": true,
+            "n_kids": 4,
+            "page_index": 27,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                365.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.6.1 Reference",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 27,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                343.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.6.2 Codec Specific Information Elements",
+            "level": 2,
+            "is_closed": true,
+            "n_kids": 6,
+            "page_index": 27,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                279.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.6.2.1 Version",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 28,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                554.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.6.2.2  Channel Mode",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 28,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                366.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.6.2.3 Fs (Sampling Frequency)",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 28,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                182.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.6.2.4 VBR",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 29,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                611.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.6.2.5 Bit Rate Index",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 29,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                457.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.6.2.6 Maximum SUL",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 30,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                586.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.6.3 Media packet header requirements",
+            "level": 2,
+            "is_closed": true,
+            "n_kids": 4,
+            "page_index": 30,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                479.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.6.3.1 Timestamp (TS)",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 30,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                459.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.6.3.2 Payload type (PT)",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 30,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                378.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.6.3.3 Marker (M) bit",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 30,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                342.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.6.3.4 Extension (X) bit",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 30,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                306.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.6.4 Media payload format",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 30,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                270.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.7 Vendor Specific A2DP codec interoperability requirements",
+            "level": 1,
+            "is_closed": true,
+            "n_kids": 4,
+            "page_index": 30,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                221.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.7.1 Reference",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 30,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                199.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.7.2 Codec Specific Information Elements",
+            "level": 2,
+            "is_closed": true,
+            "n_kids": 3,
+            "page_index": 30,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                146.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.7.2.1 Vendor ID",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 31,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                587.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.7.2.2 Vendor Specific Codec ID",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 31,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                527.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.7.2.3 Vendor Specific Value",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 31,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                491.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.7.3 Media packet header requirements",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 31,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                444.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.7.4 Media payload format",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 31,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                406.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.8 MPEG-D USAC codec interoperability requirements",
+            "level": 1,
+            "is_closed": true,
+            "n_kids": 4,
+            "page_index": 31,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                369.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.8.1 Reference",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 31,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                347.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.8.2 Codec Specific Information Elements",
+            "level": 2,
+            "is_closed": true,
+            "n_kids": 5,
+            "page_index": 31,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                312.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.8.2.1 Object Type",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 32,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                507.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.8.2.2 Sampling Frequency",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 32,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                358.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.8.2.3 Channels",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 33,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                226.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.8.2.4 VBR",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 34,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                634.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.8.2.5 Bit rate",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 34,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                503.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.8.3 Media packet header requirements",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 34,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                353.0,
+                0.0
+            ]
+        },
+        {
+            "title": "4.8.4 Media payload format",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 34,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                295.0,
+                0.0
+            ]
+        },
+        {
+            "title": "5 GAVDP interoperability requirements",
+            "level": 0,
+            "is_closed": true,
+            "n_kids": 5,
+            "page_index": 35,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                734.0,
+                0.0
+            ]
+        },
+        {
+            "title": "5.1 AVDTP interoperability requirements",
+            "level": 1,
+            "is_closed": true,
+            "n_kids": 3,
+            "page_index": 35,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                530.0,
+                0.0
+            ]
+        },
+        {
+            "title": "5.1.1 Signaling procedures",
+            "level": 2,
+            "is_closed": true,
+            "n_kids": 2,
+            "page_index": 35,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                511.0,
+                0.0
+            ]
+        },
+        {
+            "title": "5.1.1.1 Streaming roles",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 35,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                459.0,
+                0.0
+            ]
+        },
+        {
+            "title": "5.1.1.2 Delay Reporting roles",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 35,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                295.0,
+                0.0
+            ]
+        },
+        {
+            "title": "5.1.2 Transport services",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 35,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                160.0,
+                0.0
+            ]
+        },
+        {
+            "title": "5.1.3 Error codes",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 36,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                584.0,
+                0.0
+            ]
+        },
+        {
+            "title": "5.2 L2CAP interoperability requirements",
+            "level": 1,
+            "is_closed": true,
+            "n_kids": 1,
+            "page_index": 40,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                213.0,
+                0.0
+            ]
+        },
+        {
+            "title": "5.2.1 Maximum Transmission Unit",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 40,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                165.0,
+                0.0
+            ]
+        },
+        {
+            "title": "5.3 SDP interoperability requirements",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 41,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                734.0,
+                0.0
+            ]
+        },
+        {
+            "title": "5.4 Link Manager interoperability requirements",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 42,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                153.0,
+                0.0
+            ]
+        },
+        {
+            "title": "5.5 Link Controller interoperability requirements",
+            "level": 1,
+            "is_closed": true,
+            "n_kids": 1,
+            "page_index": 42,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                117.0,
+                0.0
+            ]
+        },
+        {
+            "title": "5.5.1 Class of Device",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 43,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                598.0,
+                0.0
+            ]
+        },
+        {
+            "title": "6 Generic Access Profile interoperability requirements",
+            "level": 0,
+            "is_closed": true,
+            "n_kids": 3,
+            "page_index": 44,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                734.0,
+                0.0
+            ]
+        },
+        {
+            "title": "6.1 Modes",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 44,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                652.0,
+                0.0
+            ]
+        },
+        {
+            "title": "6.2 Security aspects",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 44,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                331.0,
+                0.0
+            ]
+        },
+        {
+            "title": "6.3 Idle mode procedures",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 44,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                291.0,
+                0.0
+            ]
+        },
+        {
+            "title": "7 Acronyms and abbreviations",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 45,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                734.0,
+                0.0
+            ]
+        },
+        {
+            "title": "8 References",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 47,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                734.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Appendix A Audio Streaming with content protection",
+            "level": 0,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 48,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                734.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Appendix B Technical Specification of SBC",
+            "level": 0,
+            "is_closed": true,
+            "n_kids": 9,
+            "page_index": 49,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                734.0,
+                0.0
+            ]
+        },
+        {
+            "title": "B.1 Introduction",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 49,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                702.0,
+                0.0
+            ]
+        },
+        {
+            "title": "B.2 Glossary",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 49,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                586.0,
+                0.0
+            ]
+        },
+        {
+            "title": "B.3 Symbols and abbreviations",
+            "level": 1,
+            "is_closed": true,
+            "n_kids": 9,
+            "page_index": 49,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                433.0,
+                0.0
+            ]
+        },
+        {
+            "title": "B.3.1 Arithmetic operators",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 49,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                415.0,
+                0.0
+            ]
+        },
+        {
+            "title": "B.3.2 Logical operators",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 50,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                590.0,
+                0.0
+            ]
+        },
+        {
+            "title": "B.3.3 Relation operators",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 50,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                455.0,
+                0.0
+            ]
+        },
+        {
+            "title": "B.3.4 Bitwise operators",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 50,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                175.0,
+                0.0
+            ]
+        },
+        {
+            "title": "B.3.5 Assignment",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 51,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                640.0,
+                0.0
+            ]
+        },
+        {
+            "title": "B.3.6 Mnemonics",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 51,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                553.0,
+                0.0
+            ]
+        },
+        {
+            "title": "B.3.7 Constants",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 51,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                328.0,
+                0.0
+            ]
+        },
+        {
+            "title": "B.3.8 Ranges",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 51,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                241.0,
+                0.0
+            ]
+        },
+        {
+            "title": "B.3.9 Number notation",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 52,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                734.0,
+                0.0
+            ]
+        },
+        {
+            "title": "B.4  Syntax",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 53,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                734.0,
+                0.0
+            ]
+        },
+        {
+            "title": "B.5 Semantics",
+            "level": 1,
+            "is_closed": true,
+            "n_kids": 4,
+            "page_index": 54,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                378.0,
+                0.0
+            ]
+        },
+        {
+            "title": "B.5.1 Frame_header",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 54,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                360.0,
+                0.0
+            ]
+        },
+        {
+            "title": "B.5.2 scale_factors",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 56,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                693.0,
+                0.0
+            ]
+        },
+        {
+            "title": "B.5.3 audio_samples",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 56,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                645.0,
+                0.0
+            ]
+        },
+        {
+            "title": "B.5.4 padding",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 56,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                596.0,
+                0.0
+            ]
+        },
+        {
+            "title": "B.6 Decoding processes",
+            "level": 1,
+            "is_closed": true,
+            "n_kids": 6,
+            "page_index": 56,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                547.0,
+                0.0
+            ]
+        },
+        {
+            "title": "B.6.1 Frame header",
+            "level": 2,
+            "is_closed": true,
+            "n_kids": 1,
+            "page_index": 56,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                312.0,
+                0.0
+            ]
+        },
+        {
+            "title": "B.6.1.1 CRC check",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 56,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                279.0,
+                0.0
+            ]
+        },
+        {
+            "title": "B.6.2 Scale factors",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 57,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                571.0,
+                0.0
+            ]
+        },
+        {
+            "title": "B.6.3 Bit allocation",
+            "level": 2,
+            "is_closed": true,
+            "n_kids": 2,
+            "page_index": 57,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                515.0,
+                0.0
+            ]
+        },
+        {
+            "title": "B.6.3.1 MONO and DUAL_CHANNEL bit allocation",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 57,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                495.0,
+                0.0
+            ]
+        },
+        {
+            "title": "B.6.3.2 STEREO and JOINT_STEREO bit allocation",
+            "level": 3,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 61,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                734.0,
+                0.0
+            ]
+        },
+        {
+            "title": "B.6.4 Reconstruction of the subband samples",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 64,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                734.0,
+                0.0
+            ]
+        },
+        {
+            "title": "B.6.5 Joint processing",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 64,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                416.0,
+                0.0
+            ]
+        },
+        {
+            "title": "B.6.6 Synthesis filter",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 64,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                197.0,
+                0.0
+            ]
+        },
+        {
+            "title": "B.7 Encoding processes",
+            "level": 1,
+            "is_closed": true,
+            "n_kids": 5,
+            "page_index": 65,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                144.0,
+                0.0
+            ]
+        },
+        {
+            "title": "B.7.1 Analysis filter",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 66,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                587.0,
+                0.0
+            ]
+        },
+        {
+            "title": "B.7.2 Scale factors",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 67,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                279.0,
+                0.0
+            ]
+        },
+        {
+            "title": "B.7.3 JOINT_STEREO channel mode operation",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 67,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                234.0,
+                0.0
+            ]
+        },
+        {
+            "title": "B.7.4 Bit allocation",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 67,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                140.0,
+                0.0
+            ]
+        },
+        {
+            "title": "B.7.5 Quantization",
+            "level": 2,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 67,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                102.0,
+                0.0
+            ]
+        },
+        {
+            "title": "B.8 Tables",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 68,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                703.0,
+                0.0
+            ]
+        },
+        {
+            "title": "B.9 Calculation of bit rate and frame length",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 70,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                734.0,
+                0.0
+            ]
+        },
+        {
+            "title": "Appendix C Signaling flows",
+            "level": 0,
+            "is_closed": true,
+            "n_kids": 2,
+            "page_index": 71,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                734.0,
+                0.0
+            ]
+        },
+        {
+            "title": "C.1 Audio Streaming setup",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 71,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                661.0,
+                0.0
+            ]
+        },
+        {
+            "title": "C.2 Audio Streaming",
+            "level": 1,
+            "is_closed": null,
+            "n_kids": 0,
+            "page_index": 72,
+            "view_mode": "XYZ",
+            "view_pos": [
+                69.0,
+                734.0,
+                0.0
+            ]
+        }
+    ],
+    "pages": 73,
+    "ocr_stats": {
+        "ocr_pages": 73,
+        "ocr_failed": 0,
+        "ocr_success": 73,
+        "ocr_engine": "surya"
+    },
+    "block_stats": {
+        "header_footer": 134,
+        "code": 0,
+        "table": 101,
+        "equations": {
+            "successful_ocr": 1,
+            "unsuccessful_ocr": 1,
+            "equations": 2
+        }
+    },
+    "postprocess_stats": {
+        "edit": {}
+    }
+}
